@@ -1,1 +1,3 @@
-print("https://learn.aifoss.com/")
+
+print("https://aifoss.com")
+
