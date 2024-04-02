@@ -1,1 +1,0 @@
-print("https://aifoss.com")
