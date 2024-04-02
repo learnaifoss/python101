@@ -1,0 +1,14 @@
+go to github.com/{your username}/python101 
+    # this is your repository
+
+click "sync Fork" button
+click update branch
+
+# now my repository and your repository are identical
+
+
+go to gitpod.io workspace
+
+then click fork icon (3rd icon on left)
+
+click the 3dot menu on top and click pull
